@@ -6,26 +6,25 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 
 ## Datasets
 
-| Dataset         | Year | Link                                                         | Dataset           | Year | Link                                                      |
-| --------------- | ---- | ------------------------------------------------------------ | ----------------- | ---- | --------------------------------------------------------- |
-| Camelyon16      | 2017 | https://camelyon16.grand-challenge.org/                      | BCI               | 2022 | https://bci.grand-challenge.org                           |
-| CoNIC           | 2024 | https://conic-challenge.grand-challenge.org/                 | EMPaCT            | 2023 | https://zenodo.org/records/10066853                       |
-| CoNSeP          | 2019 | https://opendatalab.com/OpenDataLab/CoNSeP                   | ARCH              | 2021 | https://warwick.ac.uk/fac/cross_fac/tia/data/arch         |
-| DigestPath      | 2022 | https://digestpath2019.grand-challenge.org                   | HEST-1k           | 2024 | https://huggingface.co/datasets/MahmoodLab/HEst           |
-| Glas            | 2016 | https://www.kaggle.com/datasets/sani84/glasmiccai2015-gland-segmentation | OpenPath          | 2023 | https://huggingface.co/spaces/vinid/webplip               |
-| Lizard          | 2021 | https://www.kaggle.com/datasets/aadimator/lizard-dataset     | PathCap           | 2024 | https://huggingface.co/datasets/jamessyx/PathCap          |
-| MoNuSeg         | 2020 | https://monuseg.grand-challenge.org/                         | PatchGastricADC22 | 2021 | https://zenodo.org/records/6021442                        |
-| PanNuke         | 2019 | https://huggingface.co/datasets/RationAI/PanNuke             | QUILT-1M          | 2025 | https://zenodo.org/records/8239942                        |
-| TUPAC           | 2019 | https://tupac.grand-challenge.org                            | SNOW              | 2023 | https://zenodo.org/records/6633721                        |
-| BACH            | 2019 | https://zenodo.org/records/3632035                           | PathGen-1.6M      | 2024 | https://huggingface.co/datasets/jamessyx/PathGen          |
-| BreakHis        | 2016 | https://web.inf.ufpr.br/vri/databases/breakhis               | PathMMU           | 2024 | https://huggingface.co/datasets/jamessyx/PathMMU          |
-| Camelyon17      | 2019 | https://camelyon17.grand-challenge.org/                      | PathText          | 2024 | https://github.com/cpystan/Wsi-Caption                    |
-| LC25000         | 2020 | https://huggingface.co/datasets/1aurent/LC25000              | PathVQA           | 2020 | https://huggingface.co/datasets/flaviagiammarino/path-vqa |
-| NCT-CRC-HE-100K | 2018 | https://zenodo.org/records/1214456                           | PMC-VQA           | 2024 | https://huggingface.co/datasets/RadGenome/PMC-VQA         |
-| PANDA           | 2022 | https://panda.grand-challenge.org                            | QUILT-VQA         | 2024 | https://huggingface.co/datasets/wisdomik/Quilt_VQA        |
-| PatchCamelyon   | 2018 | https://github.com/basveeling/pcam                           | WSI-VQA           | 2025 | https://github.com/cpystan/WSI-VQA                        |
-| TCGA-BRCA       | 2022 | https://portal.gdc.cancer.gov/projects/TCGA-BRCA             |                   |      |                                                           |
-| ACROBAT         | 2022 | https://acrobat.grand-challenge.org                          |                   |      |                                                           |
+| Dataset         | Year | Link                                                         | Dataset           | Year | Link                                                         |
+| --------------- | ---- | ------------------------------------------------------------ | ----------------- | ---- | ------------------------------------------------------------ |
+| Camelyon16      | 2017 | [[link]](https://camelyon16.grand-challenge.org/)            | ACROBAT           | 2022 | [[link]](https://acrobat.grand-challenge.org)                |
+| CoNIC           | 2024 | [[link]](https://conic-challenge.grand-challenge.org/)       | BCI               | 2022 | [[link]](https://bci.grand-challenge.org)                    |
+| CoNSeP          | 2019 | [[link]](https://opendatalab.com/OpenDataLab/CoNSeP)         | EMPaCT            | 2023 | [[link]](https://zenodo.org/records/10066853)                |
+| DigestPath      | 2022 | [[link]](https://digestpath2019.grand-challenge.org)         | ARCH              | 2021 | [[link]](https://warwick.ac.uk/fac/cross_fac/tia/data/arch)  |
+| Glas            | 2016 | [[link]](https://www.kaggle.com/datasets/sani84/glasmiccai2015-gland-segmentation) | HEST-1k           | 2024 | [[link]](https://huggingface.co/datasets/MahmoodLab/HEst)    |
+| Lizard          | 2021 | [[link]](https://www.kaggle.com/datasets/aadimator/lizard-dataset) | OpenPath          | 2023 | [[link]](https://huggingface.co/spaces/vinid/webplip)        |
+| MoNuSeg         | 2020 | [[link]](https://monuseg.grand-challenge.org/)               | PathCap           | 2024 | [[link]](https://huggingface.co/datasets/jamessyx/PathCap)   |
+| PanNuke         | 2019 | [[link]](https://huggingface.co/datasets/RationAI/PanNuke)   | PatchGastricADC22 | 2021 | [[link]](https://zenodo.org/records/6021442)                 |
+| TUPAC           | 2019 | [[link]](https://tupac.grand-challenge.org)                  | QUILT-1M          | 2025 | [[link]](https://zenodo.org/records/8239942)                 |
+| BACH            | 2019 | [[link]](https://zenodo.org/records/3632035)                 | SNOW              | 2023 | [[link]](https://zenodo.org/records/6633721)                 |
+| BreakHis        | 2016 | [[link]](https://web.inf.ufpr.br/vri/databases/breakhis)     | PathGen-1.6M      | 2024 | [[link]](https://huggingface.co/datasets/jamessyx/PathGen)   |
+| Camelyon17      | 2019 | [[link]](https://camelyon17.grand-challenge.org/)            | PathMMU           | 2024 | [[link]](https://huggingface.co/datasets/jamessyx/PathMMU)   |
+| LC25000         | 2020 | [[link]](https://huggingface.co/datasets/1aurent/LC25000)    | PathText          | 2024 | [[link]](https://github.com/cpystan/Wsi-Caption)             |
+| NCT-CRC-HE-100K | 2018 | [[link]](https://zenodo.org/records/1214456)                 | PathVQA           | 2020 | [[link]](https://huggingface.co/datasets/flaviagiammarino/path-vqa) |
+| PANDA           | 2022 | [[link]](https://panda.grand-challenge.org)                  | PMC-VQA           | 2024 | [[link]](https://huggingface.co/datasets/RadGenome/PMC-VQA)  |
+| PatchCamelyon   | 2018 | [[link]](https://github.com/basveeling/pcam)                 | QUILT-VQA         | 2024 | [[link]](https://huggingface.co/datasets/wisdomik/Quilt_VQA) |
+| TCGA-BRCA       | 2022 | [[link]](https://portal.gdc.cancer.gov/projects/TCGA-BRCA)   | WSI-VQA           | 2025 | [[link]](https://github.com/cpystan/WSI-VQA)                 |
 
 
 
@@ -70,9 +69,81 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 
 
 
-## Models
+## LVLMs for Computational Pathology
 
-// TODO
+| Model                                                        | Architecture | Input              | Link                                                         |
+| ------------------------------------------------------------ | ------------ | ------------------ | ------------------------------------------------------------ |
+| PathologyGAN: Deep representations of cancer tissue for classification and generation | GAN          | Patch              | [[link]](https://arxiv.org/abs/1907.02644)                   |
+| HistoGAN: Dataset augmentation with selective synthetic images for classification | GAN          | Patch              | [[link]](https://arxiv.org/abs/2111.06399)                   |
+| Optimising Diffusion Models: Generating images conditioned on HPV status for improved classification | Diffusion    | Patch, HPV Status  | [[link]](https://bmvc2024.org/proceedings/727/)              |
+| InsMix: Generating realistic data for augmenting nuclei instance segmentation tasks | GAN          | Patch              | [[link]](https://arxiv.org/abs/2206.15134)                   |
+| MFDPM: Synthesizing histopathology images preserving morphological details | Diffusion    | Patch              | [[link]](https://arxiv.org/abs/2209.13167)                   |
+| ViT-DAE: Transformer-driven diffusion autoencoder for augmentation and classification | Diffusion    | Patch              | [[link]](https://arxiv.org/abs/2304.01053)                   |
+| ProGleason-GAN: Synthesizing prostate cancer images with controllable Gleason grades | GAN          | Patch              | [[link]](https://www.sciencedirect.com/science/article/pii/S0169260723003607) |
+| DiffMix: Synthesizing balanced image-label pairs to improve segmentation | Diffusion    | Patch              | [[link]](https://arxiv.org/abs/2306.14132)                   |
+| AnoDDPM: Detecting out-of-distribution samples in digital pathology images | Diffusion    | Patch              | [[link]](https://pubmed.ncbi.nlm.nih.gov/38228075/)          |
+| ADD: Simulating progressive pathological transitions for classification tasks | Diffusion    | Patch              | [[link]](https://arxiv.org/abs/2311.12316)                   |
+| MoPaDi: Generating counterfactual images for mechanistic explanation of AI models | Diffusion    | Patch              | [[link]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11565818.1/) |
+| USegMix: Unsupervised segment mix for data augmentation in classification | Diffusion    | Patch              | [[link]](https://arxiv.org/abs/2502.16160)                   |
+| PDSeg: Patch-wise mask distillation for weakly-supervised tissue segmentation | Diffusion    | Patch, Mask        | [[link]](https://ieeexplore.ieee.org/document/10888097)      |
+| dcGAN: Data augmentation with synthetic Gleason patterns to improve Gleason grading | GAN          | Patch              | [[link]](https://www.mendeley.com/catalogue/a93054c0-c74f-36b8-8c6d-7cac142f3746/) |
+| AttributeGAN: Synthesizing histopathology images with control over cellular attributes | GAN          | Cellular Attribute | [[link]](https://arxiv.org/abs/2111.06398)                   |
+| Sharp-GAN: Enhancing boundary resolution in mask-to-image synthesis for segmentation | GAN          | Patch              | [[link]](https://arxiv.org/abs/2110.14709)                   |
+| NASDM: Generating nuclei-aware semantic tissue from segmentation masks | Diffusion    | Patch, Mask        | [[link]](https://arxiv.org/abs/2303.11477)                   |
+| DISC: Self-distillation for prostate cancer grading and classification | Diffusion    | Patch              | [[link]](https://arxiv.org/abs/2404.13097)                   |
+| DiffInfinite: Large-scale mask-to-image synthesis using parallel random patch diffusion | Diffusion    | Patch              | [[link]](https://arxiv.org/abs/2306.13384)                   |
+| STEDM: Zero-shot, style-based synthesis of image-mask pairs from semantic layouts | Diffusion    | Patch, Layout      | [[link]](https://arxiv.org/abs/2403.14429)                   |
+| SynCLay: Interactive synthesis of images from cellular layouts with co-generated masks | GAN          | Layout             | [[link]](https://www.sciencedirect.com/science/article/pii/S1361841523002554) |
+| HADiff: Hierarchy-aggregated diffusion for mask-based segmentation | Diffusion    | Patch              | [[link]](https://link.springer.com/article/10.1007/s00371-024-03746-z) |
+| PathoPainter: Tumor-aware image inpainting for segmentation data augmentation | Diffusion    | Patch              | [[link]](https://arxiv.org/abs/2503.04634)                   |
+| MSSA-GAN: Pathology image restoration using multi-scale self-attention | GAN          | Patch              | [[link]](https://link.springer.com/article/10.1007/s00371-022-02592-1) |
+| ArtiFusion: Restoring artifacts in histopathology images to improve classification | Diffusion    | Patch              | [[link]](https://arxiv.org/abs/2307.14262)                   |
+| AR-CycleGAN: Detecting and restoring various histological artifacts | GAN          | Patch              | [[link]](https://ieeexplore.ieee.org/document/10160043)      |
+| Restore-GAN: Enhancing pathology image quality (deblurring, super-res) for downstream tasks | GAN          | Patch              | [[link]](https://www.sciencedirect.com/science/article/pii/S0002944023000275) |
+| HARP: Artifact restoration through unsupervised detection and diffusion-based inpainting | Diffusion    | Patch              | [[link]](https://openreview.net/forum?id=bVunbe4hoV)         |
+| LatentArtiFusion: Restoring histological artifacts efficiently in a low-dimensional latent space | VAE/Diff.    | Patch              | [[link]](https://arxiv.org/abs/2407.20172)                   |
+| ArtiDiffuser: Unified framework for histological artifact restoration and synthesis | Diffusion    | Patch              | [[link]](https://www.sciencedirect.com/science/article/abs/pii/S1361841525001148) |
+| ProGAN: High-quality patch/WSI generation for data augmentation and classification | GAN          | Patch, WSI         | [[link]](https://pubmed.ncbi.nlm.nih.gov/32686118/)          |
+| SAFRON: Generating seamless, large-scale histology images via patch-stitching GAN | GAN          | Mask               | [[link]](https://arxiv.org/abs/2008.04526)                   |
+| STAR-RL: Hierarchical reinforcement learning for interpretable super-resolution | RL           | Patch              | [[link]](https://arxiv.org/html/2406.18310v1)                |
+| PathUp: Synthesizing large, multi-class pathology images with high fidelity | Diffusion    | Patch, Text        | [[link]](https://dl.acm.org/doi/10.1145/3664647.3681295)     |
+| URCDM: Ultra-resolution WSI synthesis using a cascaded conditional diffusion model | Diffusion    | Patch, WSI         | [[link]](https://arxiv.org/abs/2407.13277)                   |
+| Histo-Diffusion: Super-resolution with quality assessment for classification | Diffusion    | Patch              | [[link]](https://arxiv.org/abs/2408.15218)                   |
+| ToPoFM: Generating images with cellular topology control for segmentation | LLM/VLM      | Patch              | [[link]](https://ieeexplore.ieee.org/document/10915718)      |
+| PathLDM: Generating histopathology images conditioned on descriptive text prompts | Diffusion    | Patch, Text        | [[link]](https://arxiv.org/abs/2309.00748)                   |
+| VIMs: Synthesizing virtual multiplex IHC stains from H&E images using text prompts | Diffusion    | Patch, Text        | [[link]](https://arxiv.org/abs/2407.19113)                   |
+| SST: Stain normalization and style transfer to improve classification robustness | GAN          | Patch              | [[link]](https://arxiv.org/abs/1710.08543)                   |
+| PC-StainGAN: Unpaired stain transfer (e.g., H&E to IHC) with pathology-consistency constraints | GAN          | Patch              | [[link]](https://ieeexplore.ieee.org/document/9389763)       |
+| Residual CycleGAN: Improving domain transformation robustness for segmentation tasks | GAN          | Patch              | [[link]](https://www.sciencedirect.com/science/article/pii/S1361841521000505) |
+| CAGAN: Semi-supervised stain normalization via dual-decoder consistency learning | GAN          | Patch              | [[link]](https://www.sciencedirect.com/science/article/abs/pii/S1361841522002195) |
+| StainDiff: Transferring stain styles between histology images using diffusion models | Diffusion    | Patch              | [[link]](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_53) |
+| AV-GAN: Virtual staining for unevenly stained tissue using an attention-based varifocal GAN | GAN          | Patch              | [[link]](https://arxiv.org/abs/2404.10714)                   |
+| StainFuser: Controlling diffusion for fast neural style transfer in multi-gigapixel images | Diffusion    | Patch              | [[link]](https://arxiv.org/abs/2403.09302)                   |
+| StainDiffuser: Multitask virtual staining and segmentation from the same model | Diffusion    | Patch              | [[link]](https://arxiv.org/abs/2403.11340)                   |
+| PPHM-GAN: High-resolution any-to-any stain translation for classification | GAN          | Patch              | [[link]](https://www.sciencedirect.com/science/article/pii/S0010482524012344) |
+| MDDP: Pre-training via H&E-to-IHC translation for improved WSI classification | Diffusion    | Patch              | [[link]](https://dl.acm.org/doi/10.1145/3664647.3680882)     |
+| VirtualMultiplexer: AI-based virtual multiplexing for tumor profiling, prognosis, and classification | Other        | Patch              | [[link]](https://www.nature.com/articles/s42256-024-00889-5) |
+| TT-SaD: Improving classification robustness through test-time stain adaptation | Diffusion    | Patch              | [[link]](https://link.springer.com/chapter/10.1007/978-3-031-72761-0_15) |
+| PST-Diff: Achieving high-consistency stain transfer with pathological/structural constraints | Diffusion    | Patch              | [[link]](https://ieeexplore.ieee.org/document/10601703)      |
+| F2FLD: Unpaired frozen-FFPE translation for classification   | Diffusion    | Patch              | [[link]](https://arxiv.org/abs/2404.12650)                   |
+| ULSA: Unsupervised latent stain adaptation for WSI segmentation | GAN          | Patch, WSI         | [[link]](https://arxiv.org/abs/2406.19081)                   |
+| Diffusion-L: Image-to-image translation with robust uncertainty quantification | Diffusion    | Patch              | [[link]](https://link.springer.com/chapter/10.1007/978-3-031-53767-7_15) |
+| DUST: A unified diffusion framework for versatile (any-to-any) stain transfer | Diffusion    | Patch              | [[link]](https://ieeexplore.ieee.org/document/10980971)      |
+| ODA-GAN: IHC staining via orthogonal decoupling of morphological and staining features | GAN          | Patch              | [[link]](https://ieeexplore.ieee.org/document/11095140)      |
+| CC-WSI-Net: Generating seamless virtual IHC whole-slide images with content consistency | GAN          | Patch              | [[link]](https://arxiv.org/abs/2410.01072)                   |
+| VM-GAN: A value mapping framework for large-scale histological image-to-image translation | GAN          | Patch              | [[link]](https://arxiv.org/abs/2501.03592)                   |
+| DSTGAN: Deeply supervised two-stage GAN for stain normalization and segmentation | GAN          | Patch              | [[link]](https://www.nature.com/articles/s41598-025-91587-8) |
+| RBDM: Virtual staining from label-free polarimetric imaging for report generation | Diffusion    | Patch              | [[link]](https://arxiv.org/abs/2503.01352)                   |
+| SGMT: Generating WSI reports guided by cancer information using a masked transformer | VLM          | Patch, WSI         | [[link]](https://arxiv.org/abs/2310.20607)                   |
+| HistGen: Employing a local-global hierarchical encoder for comprehensive WSI report generation | VLM          | WSI                | [[link]](https://arxiv.org/abs/2403.05396)                   |
+| TraP-VQA: Achieving interpretable VQA by a vision encoder with multimodal attention mechanisms | VLM          | Patch, Text        | [[link]](https://ieeexplore.ieee.org/document/9745795)       |
+| LLaVA-Med: Building a biomedical VQA assistant through cost-efficient instruction tuning | VLM          | Patch, Text        | [[link]](https://arxiv.org/abs/2306.00890)                   |
+| PathChat: Developing a general-purpose multimodal AI assistant for interactive VQA and reporting | VLM          | Patch, Text        | [[link]](https://www.nature.com/articles/s41586-024-07618-3) |
+| PathologyVLM: A large vision-language model foundational for diverse pathology VQA and reports | VLM          | Patch, Text        | [[link]](https://link.springer.com/article/10.1007/s10462-025-11190-1) |
+| PathCoT: Improving reliability of zero-shot CoT reasoning via expert-guided prompting | VLM          | Patch, Text        | [[link]](https://arxiv.org/abs/2507.01029)                   |
+| SlideChat: Enabling interactive WSI-level VQA through a hierarchical processing approach | VLM          | WSI                | [[link]](https://arxiv.org/abs/2410.11761)                   |
+
+
 
 ## Milestone Papers
 
