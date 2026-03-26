@@ -1,8 +1,8 @@
-# Content Generation Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges
+# Large Vision Language Models for Computational Pathology: A Comprehensive Survey of the Emerging Paradigm Shift
 
 ![](fig/image8.gif)
 
-This is the summation of all the methods, datasets, and other survey mentioned in our survey 'Content Generation Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges' 🔥. Any problems, please contact [HuangPengyuan@csuft.edu.cn]. Any other interesting papers or codes are welcome. If you find this repository useful to your research or work, it is really appreciated to star this repository ❤️.
+This is the summation of all the methods, datasets, and other survey mentioned in our survey 'A Comprehensive Survey of the Emerging Paradigm Shift' 🔥. Any problems, please contact [HuangPengyuan@csuft.edu.cn]. Any other interesting papers or codes are welcome. If you find this repository useful to your research or work, it is really appreciated to star this repository ❤️.
 
 ## Datasets
 
