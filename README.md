@@ -19,7 +19,7 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 | TUPAC           | 2019 | [[link]](https://tupac.grand-challenge.org)                  | QUILT-1M          | 2025 | [[link]](https://zenodo.org/records/8239942)                 |
 | BACH            | 2019 | [[link]](https://zenodo.org/records/3632035)                 | SNOW              | 2023 | [[link]](https://zenodo.org/records/6633721)                 |
 | BreakHis        | 2016 | [[link]](https://web.inf.ufpr.br/vri/databases/breakhis)     | PathGen-1.6M      | 2024 | [[link]](https://huggingface.co/datasets/jamessyx/PathGen)   |
-| Camelyon17      | 2019 | [[link]](https://camelyon17.grand-challenge.org/)            | PathMMU           | 2024 | [[link]](https://huggingface.co/datasets/jamessyx/PathMMU)   |
+| Camelyon17      | 2017 | [[link]](https://camelyon17.grand-challenge.org/)            | PathMMU           | 2024 | [[link]](https://huggingface.co/datasets/jamessyx/PathMMU)   |
 | LC25000         | 2020 | [[link]](https://huggingface.co/datasets/1aurent/LC25000)    | PathText          | 2024 | [[link]](https://github.com/cpystan/Wsi-Caption)             |
 | NCT-CRC-HE-100K | 2018 | [[link]](https://zenodo.org/records/1214456)                 | PathVQA           | 2020 | [[link]](https://huggingface.co/datasets/flaviagiammarino/path-vqa) |
 | PANDA           | 2022 | [[link]](https://panda.grand-challenge.org)                  | PMC-VQA           | 2024 | [[link]](https://huggingface.co/datasets/RadGenome/PMC-VQA)  |
